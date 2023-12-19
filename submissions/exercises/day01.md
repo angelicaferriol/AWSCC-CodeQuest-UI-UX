@@ -30,7 +30,7 @@ _(just choose the questions you would like to answer and make it concise)_
     Answer: Both websites have excellent responsiveness and smooth performance.
     
 -   Which do you think is better when it comes to the visual aspect of the website?<br/>
-    Answer: As mmentioned in the final point of the User Experience Analysis, Shopee stands out with superior visual elements. This is attributed not only to the harmonious integration of its features but also to the eye-pleasing color scheme that aligns well with its branding.
+    Answer: As mentioned in my final point of the User Experience Analysis, Shopee stands out with superior visual elements. This is attributed not only to the harmonious integration of its features but also to the eye-pleasing color scheme that aligns well with its branding.
     
     <br>
 
