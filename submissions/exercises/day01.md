@@ -35,8 +35,8 @@ _(just choose the questions you would like to answer and make it concise)_
     <br>
 
 #### 2. An **optional** screenshot of playing the game **"It's Centred That"** and your feedback
+![ITS CENTRED THAT](https://github.com/angelicaferriol/AWSCC-CodeQuest-UI-UX/assets/142831042/95e59cdb-55d8-4488-acda-8d030b77b6a8)
 
 <br>Ready to include your output for **Day 1**? Let the customization begin! 🚀✨
-![ITS CENTRED THAT](https://github.com/angelicaferriol/AWSCC-CodeQuest-UI-UX/assets/142831042/95e59cdb-55d8-4488-acda-8d030b77b6a8)
 
 <!-- You may now delete and modify the content of this file -->
