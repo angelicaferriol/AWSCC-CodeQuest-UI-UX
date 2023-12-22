@@ -15,7 +15,7 @@ I couldn't find the Figma Basics Tutorial because I created my Figma account a f
 Ready to include your output for **Day 2**? Let the customization begin! 🚀✨
 
 Here's the Spotify Home Page that I designed: 
-![Spotify HomePage Design ForDay 2 - Ferriol](https://github.com/angelicaferriol/AWSCC-CodeQuest-UI-UX/assets/142831042/66f77780-2e58-40c3-a514-90044d89496c)
+![Spotify Home Page Redesign for Day 2](https://github.com/angelicaferriol/AWSCC-CodeQuest-UI-UX/assets/142831042/87c02d06-83db-4442-afb8-22d9f92b2f94)
 
 Here's how it looks on Figma:
 ![FIGMADAY2](https://github.com/angelicaferriol/AWSCC-CodeQuest-UI-UX/assets/142831042/1ec7e9b4-5992-432a-9e2e-7a681064e1d5)
