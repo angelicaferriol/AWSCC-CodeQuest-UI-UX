@@ -8,7 +8,7 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 - Link to your own file of "Advance Figma Tutorial"
 https://www.figma.com/file/wtlLPikAuBwX0n5rjnmPFO/AWSCC-Figma-Workshop%3A-Advance-(Community)?type=design&node-id=16%3A6895&mode=design&t=wiIiBhCkzFHlpXPO-1
 
-- Brief explanation of your experience or reflection
+- Brief explanation of your experience or reflection:
 I can easily follow along with the tutorial. I appreciate its comprehensiveness and the opportunity it provides to explore Figma more deeply. I particularly enjoy using the pen tool, which I find to be a valuable feature for working with vector graphics. The auto-layout feature is also a time and effort saver, and the grid will undoubtedly be helpful for me in improving my sense of proportion and balance in layouting. Although constraints are a bit challenging for me to grasp initially, I understand the basics and how they function.
 
 - An **optional** screenshot of playing the games provided in Day 5 and your feedback
